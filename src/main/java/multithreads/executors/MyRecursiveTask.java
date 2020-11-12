@@ -8,9 +8,9 @@ import java.util.concurrent.RecursiveTask;
 
 public class MyRecursiveTask extends RecursiveTask<Integer> {
     private static final int LIMIT = 100;
-    private Integer[] table;
+    private int[] table;
 
-    public MyRecursiveTask(Integer[] table) {
+    public MyRecursiveTask(int[] table) {
         this.table = table;
     }
 
@@ -22,7 +22,7 @@ public class MyRecursiveTask extends RecursiveTask<Integer> {
                     .mapToInt(ForkJoinTask::join)
                     .sum();
         }
-        return Arrays.stream(table).reduce((a, b) -> a + b).get();
+        return Arrays.stream(table).reduce((a, b) -> a + b).getAsInt();
     }
 
     private List<MyRecursiveTask> createSubTasks() {

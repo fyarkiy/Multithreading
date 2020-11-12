@@ -1,13 +1,15 @@
 package multithreads.util;
 
-import java.util.stream.Stream;
+import java.util.stream.IntStream;
 
 public class Util {
-    private static final int MILLION = 1_000_000;
+    public static final int MILLION = 1_000_000;
 
-    public Integer[] listGenerator() {
-        return Stream.iterate(0, i -> i + 1)
-                .limit(MILLION)
-                .toArray(Integer[]::new);
+    public int[] listGenerator() {
+        return IntStream.rangeClosed(1, 1_000_000).toArray();
+    }
+
+    public int[] listGenerator(int start, int finish) {
+        return IntStream.rangeClosed(start, finish).toArray();
     }
 }

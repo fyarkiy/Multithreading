@@ -1,100 +1,17 @@
-2020-11-05 14:05:21 INFO  App:26 - Thread-0 (Runnable) value = 1
-2020-11-05 14:05:21 INFO  App:14 - Thread-1 value = 2
-2020-11-05 14:05:21 INFO  App:26 - Thread-0 (Runnable) value = 3
-2020-11-05 14:05:21 INFO  App:14 - Thread-1 value = 4
-2020-11-05 14:05:21 INFO  App:26 - Thread-0 (Runnable) value = 5
-2020-11-05 14:05:21 INFO  App:14 - Thread-1 value = 6
-2020-11-05 14:05:21 INFO  App:26 - Thread-0 (Runnable) value = 7
-2020-11-05 14:05:21 INFO  App:14 - Thread-1 value = 8
-2020-11-05 14:05:21 INFO  App:26 - Thread-0 (Runnable) value = 9
-2020-11-05 14:05:21 INFO  App:26 - Thread-0 (Runnable) value = 11
-2020-11-05 14:05:21 INFO  App:14 - Thread-1 value = 10
-2020-11-05 14:05:21 INFO  App:26 - Thread-0 (Runnable) value = 12
-2020-11-05 14:05:21 INFO  App:14 - Thread-1 value = 13
-2020-11-05 14:05:21 INFO  App:14 - Thread-1 value = 15
-2020-11-05 14:05:21 INFO  App:26 - Thread-0 (Runnable) value = 14
-2020-11-05 14:05:21 INFO  App:14 - Thread-1 value = 16
-2020-11-05 14:05:21 INFO  App:14 - Thread-1 value = 18
-2020-11-05 14:05:21 INFO  App:14 - Thread-1 value = 19
-2020-11-05 14:05:21 INFO  App:14 - Thread-1 value = 20
-2020-11-05 14:05:21 INFO  App:14 - Thread-1 value = 21
-2020-11-05 14:05:21 INFO  App:14 - Thread-1 value = 22
-2020-11-05 14:05:21 INFO  App:14 - Thread-1 value = 23
-2020-11-05 14:05:21 INFO  App:14 - Thread-1 value = 24
-2020-11-05 14:05:21 INFO  App:14 - Thread-1 value = 25
-2020-11-05 14:05:21 INFO  App:14 - Thread-1 value = 26
-2020-11-05 14:05:21 INFO  App:14 - Thread-1 value = 27
-2020-11-05 14:05:21 INFO  App:14 - Thread-1 value = 28
-2020-11-05 14:05:21 INFO  App:14 - Thread-1 value = 29
-2020-11-05 14:05:21 INFO  App:26 - Thread-0 (Runnable) value = 17
-2020-11-05 14:05:21 INFO  App:26 - Thread-0 (Runnable) value = 31
-2020-11-05 14:05:21 INFO  App:26 - Thread-0 (Runnable) value = 32
-2020-11-05 14:05:21 INFO  App:26 - Thread-0 (Runnable) value = 33
-2020-11-05 14:05:21 INFO  App:26 - Thread-0 (Runnable) value = 34
-2020-11-05 14:05:21 INFO  App:26 - Thread-0 (Runnable) value = 35
-2020-11-05 14:05:21 INFO  App:26 - Thread-0 (Runnable) value = 36
-2020-11-05 14:05:21 INFO  App:26 - Thread-0 (Runnable) value = 37
-2020-11-05 14:05:21 INFO  App:26 - Thread-0 (Runnable) value = 38
-2020-11-05 14:05:21 INFO  App:26 - Thread-0 (Runnable) value = 39
-2020-11-05 14:05:21 INFO  App:26 - Thread-0 (Runnable) value = 40
-2020-11-05 14:05:21 INFO  App:26 - Thread-0 (Runnable) value = 41
-2020-11-05 14:05:21 INFO  App:26 - Thread-0 (Runnable) value = 42
-2020-11-05 14:05:21 INFO  App:26 - Thread-0 (Runnable) value = 43
-2020-11-05 14:05:21 INFO  App:26 - Thread-0 (Runnable) value = 44
-2020-11-05 14:05:21 INFO  App:26 - Thread-0 (Runnable) value = 45
-2020-11-05 14:05:21 INFO  App:26 - Thread-0 (Runnable) value = 46
-2020-11-05 14:05:21 INFO  App:26 - Thread-0 (Runnable) value = 47
-2020-11-05 14:05:21 INFO  App:26 - Thread-0 (Runnable) value = 48
-2020-11-05 14:05:21 INFO  App:26 - Thread-0 (Runnable) value = 49
-2020-11-05 14:05:21 INFO  App:26 - Thread-0 (Runnable) value = 50
-2020-11-05 14:05:21 INFO  App:26 - Thread-0 (Runnable) value = 51
-2020-11-05 14:05:21 INFO  App:26 - Thread-0 (Runnable) value = 52
-2020-11-05 14:05:21 INFO  App:26 - Thread-0 (Runnable) value = 53
-2020-11-05 14:05:21 INFO  App:26 - Thread-0 (Runnable) value = 54
-2020-11-05 14:05:21 INFO  App:26 - Thread-0 (Runnable) value = 55
-2020-11-05 14:05:21 INFO  App:26 - Thread-0 (Runnable) value = 56
-2020-11-05 14:05:21 INFO  App:26 - Thread-0 (Runnable) value = 57
-2020-11-05 14:05:21 INFO  App:26 - Thread-0 (Runnable) value = 58
-2020-11-05 14:05:21 INFO  App:26 - Thread-0 (Runnable) value = 59
-2020-11-05 14:05:21 INFO  App:26 - Thread-0 (Runnable) value = 60
-2020-11-05 14:05:21 INFO  App:26 - Thread-0 (Runnable) value = 61
-2020-11-05 14:05:21 INFO  App:26 - Thread-0 (Runnable) value = 62
-2020-11-05 14:05:21 INFO  App:26 - Thread-0 (Runnable) value = 63
-2020-11-05 14:05:21 INFO  App:26 - Thread-0 (Runnable) value = 64
-2020-11-05 14:05:21 INFO  App:26 - Thread-0 (Runnable) value = 65
-2020-11-05 14:05:21 INFO  App:26 - Thread-0 (Runnable) value = 66
-2020-11-05 14:05:21 INFO  App:26 - Thread-0 (Runnable) value = 67
-2020-11-05 14:05:21 INFO  App:26 - Thread-0 (Runnable) value = 68
-2020-11-05 14:05:21 INFO  App:26 - Thread-0 (Runnable) value = 69
-2020-11-05 14:05:21 INFO  App:26 - Thread-0 (Runnable) value = 70
-2020-11-05 14:05:21 INFO  App:26 - Thread-0 (Runnable) value = 71
-2020-11-05 14:05:21 INFO  App:26 - Thread-0 (Runnable) value = 72
-2020-11-05 14:05:21 INFO  App:26 - Thread-0 (Runnable) value = 73
-2020-11-05 14:05:21 INFO  App:26 - Thread-0 (Runnable) value = 74
-2020-11-05 14:05:21 INFO  App:26 - Thread-0 (Runnable) value = 75
-2020-11-05 14:05:21 INFO  App:26 - Thread-0 (Runnable) value = 76
-2020-11-05 14:05:21 INFO  App:26 - Thread-0 (Runnable) value = 77
-2020-11-05 14:05:21 INFO  App:26 - Thread-0 (Runnable) value = 78
-2020-11-05 14:05:21 INFO  App:26 - Thread-0 (Runnable) value = 79
-2020-11-05 14:05:21 INFO  App:26 - Thread-0 (Runnable) value = 80
-2020-11-05 14:05:21 INFO  App:26 - Thread-0 (Runnable) value = 81
-2020-11-05 14:05:21 INFO  App:26 - Thread-0 (Runnable) value = 82
-2020-11-05 14:05:21 INFO  App:26 - Thread-0 (Runnable) value = 83
-2020-11-05 14:05:21 INFO  App:26 - Thread-0 (Runnable) value = 84
-2020-11-05 14:05:21 INFO  App:26 - Thread-0 (Runnable) value = 85
-2020-11-05 14:05:21 INFO  App:26 - Thread-0 (Runnable) value = 86
-2020-11-05 14:05:21 INFO  App:26 - Thread-0 (Runnable) value = 87
-2020-11-05 14:05:21 INFO  App:26 - Thread-0 (Runnable) value = 88
-2020-11-05 14:05:21 INFO  App:26 - Thread-0 (Runnable) value = 89
-2020-11-05 14:05:21 INFO  App:26 - Thread-0 (Runnable) value = 90
-2020-11-05 14:05:21 INFO  App:26 - Thread-0 (Runnable) value = 91
-2020-11-05 14:05:21 INFO  App:26 - Thread-0 (Runnable) value = 92
-2020-11-05 14:05:21 INFO  App:26 - Thread-0 (Runnable) value = 93
-2020-11-05 14:05:21 INFO  App:26 - Thread-0 (Runnable) value = 94
-2020-11-05 14:05:21 INFO  App:26 - Thread-0 (Runnable) value = 95
-2020-11-05 14:05:21 INFO  App:26 - Thread-0 (Runnable) value = 96
-2020-11-05 14:05:21 INFO  App:26 - Thread-0 (Runnable) value = 97
-2020-11-05 14:05:21 INFO  App:26 - Thread-0 (Runnable) value = 98
-2020-11-05 14:05:21 INFO  App:26 - Thread-0 (Runnable) value = 99
-2020-11-05 14:05:21 INFO  App:26 - Thread-0 (Runnable) value = 100
-2020-11-05 14:05:21 INFO  App:14 - Thread-1 value = 30
+2020-11-06 22:52:57 INFO  MainApp:31 - Executor Service result 1783293664
+2020-11-06 22:52:58 INFO  MainApp:38 - ForkJoin result = 1783293664
+2020-11-06 23:20:02 INFO  MainApp:32 - Executor Service result 1783293664
+2020-11-06 23:21:27 INFO  MainApp:32 - Executor Service result 1783293664
+2020-11-06 23:24:19 INFO  MainApp:42 - ForkJoin result = 1783293664
+2020-11-06 23:29:13 INFO  Threading:30 - Executor Service result 1783293664
+2020-11-06 23:29:13 INFO  Threading:40 - ForkJoin result = 1783293664
+2020-11-12 13:13:48 INFO  Threading:30 - Executor Service result 1784293664
+2020-11-12 13:13:48 INFO  Threading:40 - ForkJoin result = 1784293664
+2020-11-12 13:43:54 INFO  MyThread:39 - Executor Service result 1784293660
+2020-11-12 13:43:54 INFO  MyThread:49 - ForkJoin result = 1784293664
+2020-11-12 13:45:06 INFO  MyThread:39 - Executor Service result 66306745
+2020-11-12 13:47:50 INFO  MyThread:39 - Executor Service result 1784293664
+2020-11-12 13:55:09 INFO  MyThread:39 - Executor Service result 1784293664
+2020-11-12 13:55:09 INFO  MyThread:49 - ForkJoin result = 1784293664
+2020-11-12 14:05:20 INFO  MyThread:40 - Executor Service result 1784293664
+2020-11-12 14:05:20 INFO  MyThread:50 - ForkJoin result = 1784293664
